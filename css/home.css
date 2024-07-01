@@ -49,5 +49,8 @@ nav ul li a:hover {
 
 .concept{
     margin-top: 50px;
-    margin-bottom: 50px;
+}
+
+.bottom_space{
+    margin-bottom: 20px;
 }
